@@ -1,6 +1,6 @@
 
 
-# Starting python with hellow world (welcome to code world)
+# Starting python with hello world (welcome to code world)
 
-greetings = "Hello world"
-print(greetings)
+greetings = "Hello world" # creat a variable and push in the message "Hello world"
+print(greetings)  # print the variable 
